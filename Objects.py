@@ -262,9 +262,5 @@ class floatingEnemy(Character):
 
 
 
-"""
-asd = Character(13,170,140,107,"awsd")
-vn = Character(-37.171,199.966,48,39,"jawsd")
-
-print(asd.collide(vn))
-"""
+def werdfg(dsfsg):
+	return [dsfsg]+[1]
